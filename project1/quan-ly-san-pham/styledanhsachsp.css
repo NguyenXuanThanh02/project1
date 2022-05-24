@@ -1,0 +1,14 @@
+h3{
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+.them-sp{
+    text-align: center;
+    background-color: aqua;
+    max-width: 900px;
+    margin: 0px 200px;
+    padding: 60px 0px;  
+}
+
+
